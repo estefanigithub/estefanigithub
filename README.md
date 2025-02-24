@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estefanigithub
-- 👀 I’m interested in em aprender PHP
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in em aprender Python
+- 🌱 I’m currently learning HTML, CSS e Java Script
 - 📫 How to reach me estefani_dasilveira@icloud.com
 
 
